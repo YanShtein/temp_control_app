@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temp_control_app/static/css/main.e2ec9e49.css",
+    "main.js": "/temp_control_app/static/js/main.958d06d0.js",
+    "index.html": "/temp_control_app/index.html",
+    "main.e2ec9e49.css.map": "/temp_control_app/static/css/main.e2ec9e49.css.map",
+    "main.958d06d0.js.map": "/temp_control_app/static/js/main.958d06d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ec9e49.css",
+    "static/js/main.958d06d0.js"
+  ]
+}
